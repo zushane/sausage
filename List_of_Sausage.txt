@@ -17,7 +17,7 @@ Also organized by type.
 10.  Beef Sausage-griller
 11.  Beef Sausage-Moroccan
 12.  Boerewors
-13.  Boerewors-Nigel’s
+13.  Boerewors-Nigel's
 14.  Bratwurst-American
 15.  Bratwurst-American
 16.  Bratwurst-Bramberger
@@ -38,11 +38,11 @@ Also organized by type.
 31.  Breakfast Link-Maple
 32.  Breakfast Link-Pork   
 33.  Breakfast Sausage
-34.  Breakfast Sausage-Bill’s
+34.  Breakfast Sausage-Bill's
 35.  Bretonne (Brittany) Sausage
 36.  Cevapcici
 37.  Chaurice Sausage-Creole
-38.  Chicken Breakfast-Tony’s
+38.  Chicken Breakfast-Tony's
 39.  Chicken Pineapple
 40.  Chicken-Apple
 41.  Chicken-Basil
@@ -137,7 +137,7 @@ Also organized by type.
 130. Merguez Sausage
 131. Mettwurst-Raw
 132. Pork Sausage-Balinese
-133. Potato Sausage-Dave’s
+133. Potato Sausage-Dave's
 134. Potato Sausage-Italian
 135. Potato Sausage-Swedish
 136. Salamelle-Montova
