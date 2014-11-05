@@ -1,5 +1,4 @@
-- SALAMI AND SALAMI-TYPE DRY CURED SAUSAGES -
-=============================================
+### SALAMI AND SALAMI-TYPE DRY CURED SAUSAGES
 1.   Salami-Artigiano
 2.   Salami-Bastardo
 3.   Salami-Bull's Balls

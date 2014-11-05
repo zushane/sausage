@@ -1,5 +1,4 @@
-- UNCOOKED, FRESH OR AIR DRIED SAUSAGES -
-=========================================
+### UNCOOKED, FRESH OR AIR DRIED SAUSAGES
 1.   Alsatian Sausage
 2.   Apple Cranberry Sausage
 3.   Apple Sage Sausage 
